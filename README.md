@@ -16,11 +16,9 @@
 
 **Major:** Computer Science
 
-**Hobbies:** Playing games:video_game:, reading books:book: and coding:woozy_face:
+**Hobbies:** Playing games, reading books and coding
 
 **Achivements:**
 - Honorable Prize at Vietnam's Mathematical Olympiad 2020-2021
 
-**I'm currently learning [C++](), [C#]() and [Python]()**
-
-**I'm interested in AI and its applications.**
+**I have a keen interested in AI, especially Deep Learning, explainability and safety AI**
